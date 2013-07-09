@@ -1,4 +1,4 @@
 Blogger
 =======
 
-Google Blogger Stuff
+For now, just my google blogger template file.
